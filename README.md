@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is my [<img src="https://www.immobilienscout24.de/etc/designs/is24/img/immoscout24.svg" title="ImmoScout24" height="20" />](http://immobilienscout24.de) account. 
+If you are a member of [Scout24](https://github.com/orgs/Scout24) you can see the teams I am part of [here](https://github.com/orgs/Scout24/teams?query=%40pavel-is24).
+
+Feel free to check my [personal](https://github.com/bitnot) account and/or connect on [LinkedIn](https://www.linkedin.com/in/pavel-kiper/).
+
 <!--
 **pavel-is24/pavel-is24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
